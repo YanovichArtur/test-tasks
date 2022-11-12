@@ -1,0 +1,36 @@
+.header {
+  background-color: #cccccc;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav a {
+  display: inline-block;
+  margin-right: 16px;
+}
+
+.langs {
+  display: block;
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-inline-start: 0;
+  display: flex;
+}
+
+.langs li {
+  margin-right: 10px;
+}
+
+.content {
+  background-color: #ffffff;
+  padding: 64px 32px;
+}
+
+.footer {
+  padding: 16px;
+  background-color: #cccccc;
+}

@@ -1,0 +1,13 @@
+{
+  "locales": ["en", "id"],
+  "defaultLocale": "en",
+  "pages": {
+    "*": ["common"],
+    "/": ["home"],
+    "/bonuses": ["bonuses"],
+    "/catalog": ["catalog"],
+    "/news": ["news"],
+    "/faq": ["faq"],
+    "/about": ["about"]
+  }
+}
